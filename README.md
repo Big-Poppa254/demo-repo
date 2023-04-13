@@ -1,3 +1,3 @@
-#dEMO
+#demo
 
 Sample description.
